@@ -40,6 +40,6 @@
 <p align="left">
 </p>
 
-- 💬 ASK ME ABOUT **DevOps**
-- 📫 How to reach me **[bhuchs19@gmail.com](mailto:bhuchs19@gmail.com)**
-- ⚡ Fun fact **I create YouTube videos**
+- 💬 ASK ME ABOUT : **DevOps**
+- 📫 HOW TO REACH ME : **[bhuchs19@gmail.com](mailto:bhuchs19@gmail.com)**
+- ⚡ FUN FACT : **CURRENTLY WORKING ON CYBERSECURITY PROJECTS**
