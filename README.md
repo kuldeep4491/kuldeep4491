@@ -1,4 +1,4 @@
-<h2 align="left">HYY...👋 , MY NAME IS "KULDEEP PANDEY" , I'M A FRONTEND DEVELOPER FROM INDIA .</h2>
+<h2 align="left">HEY , "KULDEEP PANDEY" THIS SIDE FROM INDIA .</h2>
 
 ###
 
