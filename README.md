@@ -41,5 +41,5 @@
 </p>
 
 - 💬 ASK ME ABOUT : **DEV-OPS**
-- 📫 HOW TO REACH ME : **[bhuchs19@gmail.com](mailto:bhuchs19@gmail.com)**
+- 📫 HOW TO REACH ME : **[kuldeep9838003408@gmail.com](mailto:kuldeep9838003408@gmail.com)**
 - ⚡ FUN FACT : **CURRENTLY WORKING ON CYBERSECURITY PROJECTS**
